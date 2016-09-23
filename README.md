@@ -30,6 +30,7 @@ A healthy dose of toy problems daily keeps men sharp and happy.
 
 <h3>Medium</h3>
 <p><a href="/Roman_Numeral_Converter.js" target="_blank">Roman Numeral Converter</a></p>
+<p><a href="/Async_Map.js" target="_blank">Async Map</a></p>
 
 <h3>Spicy</h3>
 
