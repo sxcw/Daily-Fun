@@ -19,12 +19,14 @@ A healthy dose of toy problems daily keeps men sharp and happy.
 <p><a href="/Largest_of_Four.js" target="_blank">Largest of Four</a></p>
 <p><a href="/Mutation.js" target="_blank">Mutation</a></p>
 <p><a href="/Repeat_String_Num_Times.js" target="_blank">Repeat String Num Times</a></p>
+<p><a href="/Search_Sorted_Matrix.js" target="_blank">Search Sorted Matrix</a></p>
 <p><a href="/Slasher.js" target="_blank">Slasher</a></p>
 <p><a href="/Sorted_Union.js" target="_blank">Sorted Union</a></p>
 <p><a href="/Sum_All_Numbers_in_Range.js" target="_blank">Sum All Numbers in Range</a></p>
 <p><a href="/Title_Case.js" target="_blank">Title Case</a></p>
 <p><a href="/Truncate_String.js" target="_blank">Truncate String</a></p>
 <p><a href="/Pig_Latin.js" target="_blank">Pig Latin</a></p>
+<p><a href="/Reverse_Array_in_Place.js" target="_blank">Reverse Array in Place</a></p>
 <p><a href="/Search_and_Replace.js" target="_blank">Search and Replace.js</a></p>
 <p><a href="/What_is_in_a_Name.js" target="_blank">What_is_in_a_Name.js</a></p>
 
