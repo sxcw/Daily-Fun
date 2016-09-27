@@ -31,9 +31,10 @@ A healthy dose of toy problems daily keeps men sharp and happy.
 <p><a href="/What_is_in_a_Name.js" target="_blank">What_is_in_a_Name.js</a></p>
 
 <h3>Medium</h3>
-<p><a href="/Flatten_Arrays.js" target="_blank">Flatten Arrays</a></p>
-<p><a href="/Roman_Numeral_Converter.js" target="_blank">Roman Numeral Converter</a></p>
 <p><a href="/Async_Map.js" target="_blank">Async Map</a></p>
+<p><a href="/Flatten_Arrays.js" target="_blank">Flatten Arrays</a></p>
+<p><a href="/Longest_Palindrome.js" target="_blank">Longest Palindrome</a></p>
+<p><a href="/Roman_Numeral_Converter.js" target="_blank">Roman Numeral Converter</a></p>
 
 <h3>Spicy</h3>
 
