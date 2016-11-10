@@ -39,6 +39,8 @@ A healthy dose of toy problems daily keeps men sharp and happy.
 <p><a href="/Flatten_Arrays.js" target="_blank">Flatten Arrays</a></p>
 <p><a href="/Longest_Palindrome.js" target="_blank">Longest Palindrome</a></p>
 <p><a href="/Roman_Numeral_Converter.js" target="_blank">Roman Numeral Converter</a></p>
+<p><a href="/Sum_All_Odd_Fibonacci_Numbers.js" target="_blank">Sum All Odd Fibonacci Numbers</a></p>
+<p><a href="/Sum_All_Primes.js" target="_blank">Sum All Primes</a></p>
 
 <h3>Spicy</h3>
 
