@@ -4,7 +4,11 @@ A healthy dose of toy problems daily keeps men sharp and happy.
 
 <h2>Difficulty</h2>
 
-<h3>Mild</h3>       
+<h3>Mild</h3>   
+<p><a href="/Array_isSubset.js" target="_blank">Array iSubset</a></p>
+<p><a href="/Array_Max.js" target="_blank">Array Max</a></p>
+<p><a href="/Array_Middle.js" target="_blank">Array Middle</a></p> 
+<p><a href="/Array_Zip_Sum.js" target="_blank">Array Zip Sum</a></p>        
 <p><a href="/Bouncer.js" target="_blank">Bouncer</a></p>
 <p><a href="/Caesars_Cipher.js" target="_blank">Caesars Cipher</a></p>
 <p><a href="/Check_for_Palindromes.js" target="_blank">Check for Palindrome</a><p>
