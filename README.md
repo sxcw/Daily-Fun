@@ -17,7 +17,9 @@ A healthy dose of toy problems daily keeps men sharp and happy.
 <p><a href="/Convert_HTML_Entities.js" target="_blank">Convert HTML Entities</a></p>
 <p><a href="/Destroyer.js" target="_blank">Destroyer</a></p>
 <p><a href="/Diff_Two_Arrays.js" target="_blank">Diff Two Arrays</a></p>
+<p><a href="/Drop_It.js" target="_blank">Drop It</a></p>
 <p><a href="/Fear_Not_Letter.js" target="_blank">Fear Not Letter.js</a></p>
+<p><a href="/Finders_Keepers.js" target="_blank">Finders Keepers.js</a></p>
 <p><a href="/Find_Longest_Word.js" target="_blank">Find Longest Word</a></p>
 <p><a href="/Get_Index_To_Ins .js" target="_blank">Get Index To Ins </a></p>
 <p><a href="/Largest_of_Four.js" target="_blank">Largest of Four</a></p>
@@ -25,14 +27,15 @@ A healthy dose of toy problems daily keeps men sharp and happy.
 <p><a href="/Repeat_String_Num_Times.js" target="_blank">Repeat String Num Times</a></p>
 <p><a href="/Search_Sorted_Matrix.js" target="_blank">Search Sorted Matrix</a></p>
 <p><a href="/Slasher.js" target="_blank">Slasher</a></p>
+<p><a href="/Steamroller.js" target="_blank">Steamroller</a></p>
 <p><a href="/Sorted_Union.js" target="_blank">Sorted Union</a></p>
 <p><a href="/Sum_All_Numbers_in_Range.js" target="_blank">Sum All Numbers in Range</a></p>
 <p><a href="/Title_Case.js" target="_blank">Title Case</a></p>
 <p><a href="/Truncate_String.js" target="_blank">Truncate String</a></p>
 <p><a href="/Pig_Latin.js" target="_blank">Pig Latin</a></p>
 <p><a href="/Reverse_Array_in_Place.js" target="_blank">Reverse Array in Place</a></p>
-<p><a href="/Search_and_Replace.js" target="_blank">Search and Replace.js</a></p>
-<p><a href="/What_is_in_a_Name.js" target="_blank">What_is_in_a_Name.js</a></p>
+<p><a href="/Search_and_Replace.js" target="_blank">Search and Replace</a></p>
+<p><a href="/What_is_in_a_Name.js" target="_blank">What is in a Name</a></p>
 
 <h3>Medium</h3>
 <p><a href="/Async_Map.js" target="_blank">Async Map</a></p>
