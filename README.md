@@ -32,6 +32,7 @@ A healthy dose of toy problems daily keeps men sharp and happy.
 <p><a href="/Sum_All_Numbers_in_Range.js" target="_blank">Sum All Numbers in Range</a></p>
 <p><a href="/Title_Case.js" target="_blank">Title Case</a></p>
 <p><a href="/Truncate_String.js" target="_blank">Truncate String</a></p>
+<p><a href="/Truth_Check.js" target="_blank">Truth Check</a></p>
 <p><a href="/Pig_Latin.js" target="_blank">Pig Latin</a></p>
 <p><a href="/Reverse_Array_in_Place.js" target="_blank">Reverse Array in Place</a></p>
 <p><a href="/Search_and_Replace.js" target="_blank">Search and Replace</a></p>
