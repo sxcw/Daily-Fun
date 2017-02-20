@@ -16,6 +16,7 @@ A healthy dose of toy problems daily keeps men sharp and happy.
 <p><a href="/Chunk_Array_In_Group.js" target="_blank">Chunk Array In Group</a><p>
 <p><a href="/Confirm_Ending.js" target="_blank">Confirm Ending</a></p>
 <p><a href="/Convert_HTML_Entities.js" target="_blank">Convert HTML Entities</a></p>
+<p><a href="/Decode_Morse_Code.js" target="_blank">Decode Morse Code</a></p>
 <p><a href="/Destroyer.js" target="_blank">Destroyer</a></p>
 <p><a href="/Diff_Two_Arrays.js" target="_blank">Diff Two Arrays</a></p>
 <p><a href="/Drop_It.js" target="_blank">Drop It</a></p>
