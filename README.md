@@ -5,6 +5,7 @@ A healthy dose of toy problems daily keeps men sharp and happy.
 <h2>Difficulty</h2>
 
 <h3>Mild</h3> 
+<p><a href="/Accum.js" target="_blank">Accum</a></p>
 <p><a href="/Add_Together.js" target="_blank">Add Together</a></p>
 <p><a href="/Array_isSubset.js" target="_blank">Array iSubset</a></p>
 <p><a href="/Array_Max.js" target="_blank">Array Max</a></p>
