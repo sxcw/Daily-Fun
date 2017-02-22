@@ -24,7 +24,8 @@ A healthy dose of toy problems daily keeps men sharp and happy.
 <p><a href="/Fear_Not_Letter.js" target="_blank">Fear Not Letter.js</a></p>
 <p><a href="/Finders_Keepers.js" target="_blank">Finders Keepers.js</a></p>
 <p><a href="/Find_Longest_Word.js" target="_blank">Find Longest Word</a></p>
-<p><a href="/Get_Index_To_Ins .js" target="_blank">Get Index To Ins </a></p>
+<p><a href="/Get_Index_To_Ins.js" target="_blank">Get Index To Ins </a></p>
+<p><a href="/Get_Middle.js" target="_blank">Get Middle</a></p>
 <p><a href="/Largest_of_Four.js" target="_blank">Largest of Four</a></p>
 <p><a href="/Mutation.js" target="_blank">Mutation</a></p>
 <p><a href="/Repeat_String_Num_Times.js" target="_blank">Repeat String Num Times</a></p>
