@@ -28,6 +28,7 @@ A healthy dose of toy problems daily keeps men sharp and happy.
 <p><a href="/Get_Index_To_Ins.js" target="_blank">Get Index To Ins </a></p>
 <p><a href="/Get_Middle.js" target="_blank">Get Middle</a></p>
 <p><a href="/High_and_Low.js" target="_blank">High and Low</a></p>
+<p><a href="/IQ_Test.js" target="_blank">IQ Test</a></p>
 <p><a href="/Largest_of_Four.js" target="_blank">Largest of Four</a></p>
 <p><a href="/Multiply_Three_and_Five.js" target="_blank">Multiply Three and Five</a></p>
 <p><a href="/Mutation.js" target="_blank">Mutation</a></p>
