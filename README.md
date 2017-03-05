@@ -57,6 +57,7 @@ A healthy dose of toy problems daily keeps men sharp and happy.
 <p><a href="/Sum_All_Odd_Fibonacci_Numbers.js" target="_blank">Sum All Odd Fibonacci Numbers</a></p>
 <p><a href="/Sum_All_Primes.js" target="_blank">Sum All Primes</a></p>
 <p><a href="/Symmetric_Difference.js" target="_blank">Symmetric Difference</a></p>
+<p><a href="/Tickets.js" target="_blank">Tickets</a></p>
 <p><a href="/Persistence.js" target="_blank">Persistence</a></p>
 <p><a href="/Recursion_with_Destructuring.js" target="_blank">Recursion with Destructuring</a></p>
 
