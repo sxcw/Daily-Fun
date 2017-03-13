@@ -8,3 +8,10 @@ function highAndLow(numbers){
   numbers = numbers.split(' ');
   return `${Math.max(...numbers)} ${Math.min(...numbers)}`;
 }
+
+function highAndLow(numbers){
+  const nums = numbers.split(' ');
+  const highest = Math.max(...nums);
+  const lowest = Math.min(...nums);
+  return `${highest} ${lowest}`;
+}
