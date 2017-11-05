@@ -1,16 +1,16 @@
 <h1>Daily Fun</h1>
-Toy problems are fun, why not do them every day? 
-A healthy dose of toy problems daily keeps men sharp and happy. 
+Toy problems are fun, why not do them every day?
+A healthy dose of toy problems daily keeps men sharp and happy.
 
 <h2>Difficulty</h2>
 
-<h3>Mild</h3> 
+<h3>Mild</h3>
 <p><a href="/Accum.js" target="_blank">Accum</a></p>
 <p><a href="/Add_Together.js" target="_blank">Add Together</a></p>
 <p><a href="/Array_isSubset.js" target="_blank">Array iSubset</a></p>
 <p><a href="/Array_Max.js" target="_blank">Array Max</a></p>
-<p><a href="/Array_Middle.js" target="_blank">Array Middle</a></p> 
-<p><a href="/Array_Zip_Sum.js" target="_blank">Array Zip Sum</a></p>        
+<p><a href="/Array_Middle.js" target="_blank">Array Middle</a></p>
+<p><a href="/Array_Zip_Sum.js" target="_blank">Array Zip Sum</a></p>
 <p><a href="/Bouncer.js" target="_blank">Bouncer</a></p>
 <p><a href="/Caesars_Cipher.js" target="_blank">Caesars Cipher</a></p>
 <p><a href="/Check_for_Palindromes.js" target="_blank">Check for Palindrome</a><p>
@@ -34,6 +34,7 @@ A healthy dose of toy problems daily keeps men sharp and happy.
 <p><a href="/Multiply_Three_and_Five.js" target="_blank">Multiply Three and Five</a></p>
 <p><a href="/Mutation.js" target="_blank">Mutation</a></p>
 <p><a href="/Repeat_String_Num_Times.js" target="_blank">Repeat String Num Times</a></p>
+<p><a href="/Reverse_Integer.js" target="_blank">Reverse Integer</a></p>
 <p><a href="/Search_Sorted_Matrix.js" target="_blank">Search Sorted Matrix</a></p>
 <p><a href="/Slasher.js" target="_blank">Slasher</a></p>
 <p><a href="/Spin_Words.js" target="_blank">Spin Words</a></p>
@@ -43,8 +44,10 @@ A healthy dose of toy problems daily keeps men sharp and happy.
 <p><a href="/Title_Case.js" target="_blank">Title Case</a></p>
 <p><a href="/Truncate_String.js" target="_blank">Truncate String</a></p>
 <p><a href="/Truth_Check.js" target="_blank">Truth Check</a></p>
+<p><a href="/Two_Sum.js" target="_blank">Two Sum</a></p>
 <p><a href="/Pig_Latin.js" target="_blank">Pig Latin</a></p>
 <p><a href="/Reverse_Array_in_Place.js" target="_blank">Reverse Array in Place</a></p>
+<p><a href="/Roman_to_Integer.js" target="_blank">Roman to Integer</a></p>
 <p><a href="/Search_and_Replace.js" target="_blank">Search and Replace</a></p>
 <p><a href="/What_is_in_a_Name.js" target="_blank">What is in a Name</a></p>
 
