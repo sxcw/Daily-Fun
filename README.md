@@ -31,6 +31,7 @@ A healthy dose of toy problems daily keeps men sharp and happy.
 <p><a href="/High_and_Low.js" target="_blank">High and Low</a></p>
 <p><a href="/IQ_Test.js" target="_blank">IQ Test</a></p>
 <p><a href="/Largest_of_Four.js" target="_blank">Largest of Four</a></p>
+<p><a href="/Longest_Common_Prefix.js" target="_blank">Longest Common Prefix</a></p>
 <p><a href="/Multiply_Three_and_Five.js" target="_blank">Multiply Three and Five</a></p>
 <p><a href="/Mutation.js" target="_blank">Mutation</a></p>
 <p><a href="/Repeat_String_Num_Times.js" target="_blank">Repeat String Num Times</a></p>
@@ -49,6 +50,7 @@ A healthy dose of toy problems daily keeps men sharp and happy.
 <p><a href="/Reverse_Array_in_Place.js" target="_blank">Reverse Array in Place</a></p>
 <p><a href="/Roman_to_Integer.js" target="_blank">Roman to Integer</a></p>
 <p><a href="/Search_and_Replace.js" target="_blank">Search and Replace</a></p>
+<p><a href="/Valid_Parentheses.js" target="_blank">Valid Parentheses</a></p>
 <p><a href="/What_is_in_a_Name.js" target="_blank">What is in a Name</a></p>
 
 <h3>Medium</h3>
