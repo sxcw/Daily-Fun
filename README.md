@@ -32,14 +32,17 @@ A healthy dose of toy problems daily keeps men sharp and happy.
 <p><a href="/IQ_Test.js" target="_blank">IQ Test</a></p>
 <p><a href="/Largest_of_Four.js" target="_blank">Largest of Four</a></p>
 <p><a href="/Longest_Common_Prefix.js" target="_blank">Longest Common Prefix</a></p>
+<p><a href="/Merge_Two_Lists.js" target="_blank">Merge Two Lists</a></p>
 <p><a href="/Multiply_Three_and_Five.js" target="_blank">Multiply Three and Five</a></p>
 <p><a href="/Mutation.js" target="_blank">Mutation</a></p>
 <p><a href="/Repeat_String_Num_Times.js" target="_blank">Repeat String Num Times</a></p>
 <p><a href="/Reverse_Integer.js" target="_blank">Reverse Integer</a></p>
+<p><a href="/Search_Insert.js" target="_blank">Search Insert</a></p>
 <p><a href="/Search_Sorted_Matrix.js" target="_blank">Search Sorted Matrix</a></p>
 <p><a href="/Slasher.js" target="_blank">Slasher</a></p>
 <p><a href="/Spin_Words.js" target="_blank">Spin Words</a></p>
 <p><a href="/Steamroller.js" target="_blank">Steamroller</a></p>
+<p><a href="/StrStr.js" target="_blank">StrStr</a></p>
 <p><a href="/Sorted_Union.js" target="_blank">Sorted Union</a></p>
 <p><a href="/Sum_All_Numbers_in_Range.js" target="_blank">Sum All Numbers in Range</a></p>
 <p><a href="/Title_Case.js" target="_blank">Title Case</a></p>
@@ -47,6 +50,8 @@ A healthy dose of toy problems daily keeps men sharp and happy.
 <p><a href="/Truth_Check.js" target="_blank">Truth Check</a></p>
 <p><a href="/Two_Sum.js" target="_blank">Two Sum</a></p>
 <p><a href="/Pig_Latin.js" target="_blank">Pig Latin</a></p>
+<p><a href="/Remove_Duplicate.js" target="_blank">Remove Duplicate</a></p>
+<p><a href="/Remove_Element.js" target="_blank">Remove Element</a></p>
 <p><a href="/Reverse_Array_in_Place.js" target="_blank">Reverse Array in Place</a></p>
 <p><a href="/Roman_to_Integer.js" target="_blank">Roman to Integer</a></p>
 <p><a href="/Search_and_Replace.js" target="_blank">Search and Replace</a></p>
