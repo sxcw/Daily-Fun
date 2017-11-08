@@ -60,6 +60,7 @@ A healthy dose of toy problems daily keeps men sharp and happy.
 
 <h3>Medium</h3>
 <p><a href="/Async_Map.js" target="_blank">Async Map</a></p>
+<p><a href="/Count_And_Say.js" target="_blank">Count And Say</a></p>
 <p><a href="/Find_Even_Index.js" target="_blank">Find Even Index</a></p>
 <p><a href="/Flatten_Arrays.js" target="_blank">Flatten Arrays</a></p>
 <p><a href="/Longest_Palindrome.js" target="_blank">Longest Palindrome</a></p>
