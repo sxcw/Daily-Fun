@@ -31,7 +31,9 @@ A healthy dose of toy problems daily keeps men sharp and happy.
 <p><a href="/High_and_Low.js" target="_blank">High and Low</a></p>
 <p><a href="/IQ_Test.js" target="_blank">IQ Test</a></p>
 <p><a href="/Largest_of_Four.js" target="_blank">Largest of Four</a></p>
+<p><a href="/Length_of_Last_Word.js" target="_blank">Length of Last Word</a></p>
 <p><a href="/Longest_Common_Prefix.js" target="_blank">Longest Common Prefix</a></p>
+<p><a href="/Max_Subarray.js" target="_blank">Max Subarray</a></p>
 <p><a href="/Merge_Two_Lists.js" target="_blank">Merge Two Lists</a></p>
 <p><a href="/Multiply_Three_and_Five.js" target="_blank">Multiply Three and Five</a></p>
 <p><a href="/Mutation.js" target="_blank">Mutation</a></p>
@@ -50,6 +52,7 @@ A healthy dose of toy problems daily keeps men sharp and happy.
 <p><a href="/Truth_Check.js" target="_blank">Truth Check</a></p>
 <p><a href="/Two_Sum.js" target="_blank">Two Sum</a></p>
 <p><a href="/Pig_Latin.js" target="_blank">Pig Latin</a></p>
+<p><a href="/Plus_One.js" target="_blank">Plus One</a></p>
 <p><a href="/Remove_Duplicate.js" target="_blank">Remove Duplicate</a></p>
 <p><a href="/Remove_Element.js" target="_blank">Remove Element</a></p>
 <p><a href="/Reverse_Array_in_Place.js" target="_blank">Reverse Array in Place</a></p>
