@@ -36,10 +36,12 @@ A healthy dose of toy problems daily keeps men sharp and happy.
 <p><a href="/Longest_Common_Prefix.js" target="_blank">Longest Common Prefix</a></p>
 <p><a href="/Max_Subarray.js" target="_blank">Max Subarray</a></p>
 <p><a href="/Merge_Two_Lists.js" target="_blank">Merge Two Lists</a></p>
+<p><a href="/Merge_Sorted_Arrays.js" target="_blank">Merge Sorted Arrays</a></p>
 <p><a href="/Multiply_Three_and_Five.js" target="_blank">Multiply Three and Five</a></p>
 <p><a href="/Mutation.js" target="_blank">Mutation</a></p>
 <p><a href="/MySqrt.js" target="_blank">MySqrt</a></p>
 <p><a href="/Repeat_String_Num_Times.js" target="_blank">Repeat String Num Times</a></p>
+<p><a href="/Remove_Duplicates_from_Sorted_List.js" target="_blank">Remove Duplicates from Sorted List</a></p>
 <p><a href="/Reverse_Integer.js" target="_blank">Reverse Integer</a></p>
 <p><a href="/Search_Insert.js" target="_blank">Search Insert</a></p>
 <p><a href="/Search_Sorted_Matrix.js" target="_blank">Search Sorted Matrix</a></p>
