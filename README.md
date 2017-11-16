@@ -38,6 +38,7 @@ A healthy dose of toy problems daily keeps men sharp and happy.
 <p><a href="/Maximum_Depth_of_Binary_Tree.js" target="_blank">Maximum Depth of Binary Tree</a></p>
 <p><a href="/Merge_Two_Lists.js" target="_blank">Merge Two Lists</a></p>
 <p><a href="/Merge_Sorted_Arrays.js" target="_blank">Merge Sorted Arrays</a></p>
+<p><a href="/Minimum_Depth_of_Binary_Tree.js" target="_blank">Minimum Depth of Binary Tree</a></p>
 <p><a href="/Multiply_Three_and_Five.js" target="_blank">Multiply Three and Five</a></p>
 <p><a href="/Mutation.js" target="_blank">Mutation</a></p>
 <p><a href="/MySqrt.js" target="_blank">MySqrt</a></p>
@@ -70,6 +71,7 @@ A healthy dose of toy problems daily keeps men sharp and happy.
 
 <h3>Medium</h3>
 <p><a href="/Async_Map.js" target="_blank">Async Map</a></p>
+<p><a href="/Balanced_Binary_Tree.js" target="_blank">Balanced Binary Tree</a></p>
 <p><a href="/Binary_Tree_Level_Order_Traversal_Two.js" target="_blank">Binary Tree Level Order Traversal Two</a></p>
 <p><a href="/Convert_Sorted_Array_to_Binary_Search_Tree
 .js" target="_blank">Convert Sorted Array to Binary Search Tree
