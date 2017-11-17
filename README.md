@@ -57,6 +57,7 @@ A healthy dose of toy problems daily keeps men sharp and happy.
 <p><a href="/Truncate_String.js" target="_blank">Truncate String</a></p>
 <p><a href="/Truth_Check.js" target="_blank">Truth Check</a></p>
 <p><a href="/Two_Sum.js" target="_blank">Two Sum</a></p>
+<p><a href="/Path_Sum.js" target="_blank">Path Sum</a></p>
 <p><a href="/Pig_Latin.js" target="_blank">Pig Latin</a></p>
 <p><a href="/Plus_One.js" target="_blank">Plus One</a></p>
 <p><a href="/Remove_Duplicate.js" target="_blank">Remove Duplicate</a></p>
@@ -71,6 +72,7 @@ A healthy dose of toy problems daily keeps men sharp and happy.
 
 <h3>Medium</h3>
 <p><a href="/Async_Map.js" target="_blank">Async Map</a></p>
+<p><a href="/Add_Binary.js" target="_blank">Add Binary</a></p>
 <p><a href="/Balanced_Binary_Tree.js" target="_blank">Balanced Binary Tree</a></p>
 <p><a href="/Binary_Tree_Level_Order_Traversal_Two.js" target="_blank">Binary Tree Level Order Traversal Two</a></p>
 <p><a href="/Convert_Sorted_Array_to_Binary_Search_Tree
