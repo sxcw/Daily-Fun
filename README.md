@@ -58,6 +58,7 @@ A healthy dose of toy problems daily keeps men sharp and happy.
 <p><a href="/Truth_Check.js" target="_blank">Truth Check</a></p>
 <p><a href="/Two_Sum.js" target="_blank">Two Sum</a></p>
 <p><a href="/Path_Sum.js" target="_blank">Path Sum</a></p>
+<p><a href="/Pascals_Triangle.js" target="_blank">Pascals Triangle</a></p>
 <p><a href="/Pig_Latin.js" target="_blank">Pig Latin</a></p>
 <p><a href="/Plus_One.js" target="_blank">Plus One</a></p>
 <p><a href="/Remove_Duplicate.js" target="_blank">Remove Duplicate</a></p>
@@ -67,6 +68,7 @@ A healthy dose of toy problems daily keeps men sharp and happy.
 <p><a href="/Same_Tree.js" target="_blank">Same Tree</a></p>
 <p><a href="/Search_and_Replace.js" target="_blank">Search and Replace</a></p>
 <p><a href="/Symmetric_Tree.js" target="_blank">Symmetric Tree</a></p>
+<p><a href="/Valid_Palindrome.js" target="_blank">Valid Palindrome</a></p>
 <p><a href="/Valid_Parentheses.js" target="_blank">Valid Parentheses</a></p>
 <p><a href="/What_is_in_a_Name.js" target="_blank">What is in a Name</a></p>
 
@@ -87,6 +89,7 @@ A healthy dose of toy problems daily keeps men sharp and happy.
 <p><a href="/Sum_All_Primes.js" target="_blank">Sum All Primes</a></p>
 <p><a href="/Symmetric_Difference.js" target="_blank">Symmetric Difference</a></p>
 <p><a href="/Tickets.js" target="_blank">Tickets</a></p>
+<p><a href="/Palindrome_Number.js" target="_blank">Palindrome Number</a></p>
 <p><a href="/Persistence.js" target="_blank">Persistence</a></p>
 <p><a href="/Recursion_with_Destructuring.js" target="_blank">Recursion with Destructuring</a></p>
 
