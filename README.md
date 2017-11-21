@@ -33,6 +33,7 @@ A healthy dose of toy problems daily keeps men sharp and happy.
 <p><a href="/IQ_Test.js" target="_blank">IQ Test</a></p>
 <p><a href="/Largest_of_Four.js" target="_blank">Largest of Four</a></p>
 <p><a href="/Length_of_Last_Word.js" target="_blank">Length of Last Word</a></p>
+<p><a href="/Linked_List_Cycle.js" target="_blank">Linked List Cycle</a></p>
 <p><a href="/Longest_Common_Prefix.js" target="_blank">Longest Common Prefix</a></p>
 <p><a href="/Max_Subarray.js" target="_blank">Max Subarray</a></p>
 <p><a href="/Maximum_Depth_of_Binary_Tree.js" target="_blank">Maximum Depth of Binary Tree</a></p>
@@ -67,6 +68,7 @@ A healthy dose of toy problems daily keeps men sharp and happy.
 <p><a href="/Roman_to_Integer.js" target="_blank">Roman to Integer</a></p>
 <p><a href="/Same_Tree.js" target="_blank">Same Tree</a></p>
 <p><a href="/Search_and_Replace.js" target="_blank">Search and Replace</a></p>
+<p><a href="/Single_Number.js" target="_blank">Single Number</a></p>
 <p><a href="/Symmetric_Tree.js" target="_blank">Symmetric Tree</a></p>
 <p><a href="/Valid_Palindrome.js" target="_blank">Valid Palindrome</a></p>
 <p><a href="/Valid_Parentheses.js" target="_blank">Valid Parentheses</a></p>
