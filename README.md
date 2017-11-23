@@ -40,6 +40,7 @@ A healthy dose of toy problems daily keeps men sharp and happy.
 <p><a href="/Merge_Two_Lists.js" target="_blank">Merge Two Lists</a></p>
 <p><a href="/Merge_Sorted_Arrays.js" target="_blank">Merge Sorted Arrays</a></p>
 <p><a href="/Minimum_Depth_of_Binary_Tree.js" target="_blank">Minimum Depth of Binary Tree</a></p>
+<p><a href="/Min_Stack.js" target="_blank">Min Stack</a></p>
 <p><a href="/Multiply_Three_and_Five.js" target="_blank">Multiply Three and Five</a></p>
 <p><a href="/Mutation.js" target="_blank">Mutation</a></p>
 <p><a href="/MySqrt.js" target="_blank">MySqrt</a></p>
