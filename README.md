@@ -31,10 +31,12 @@ A healthy dose of toy problems daily keeps men sharp and happy.
 <p><a href="/Get_Middle.js" target="_blank">Get Middle</a></p>
 <p><a href="/High_and_Low.js" target="_blank">High and Low</a></p>
 <p><a href="/IQ_Test.js" target="_blank">IQ Test</a></p>
+<p><a href="/Intersection_of_Two_Linked_Lists.js" target="_blank">Intersection of Two Linked Lists</a></p>
 <p><a href="/Largest_of_Four.js" target="_blank">Largest of Four</a></p>
 <p><a href="/Length_of_Last_Word.js" target="_blank">Length of Last Word</a></p>
 <p><a href="/Linked_List_Cycle.js" target="_blank">Linked List Cycle</a></p>
 <p><a href="/Longest_Common_Prefix.js" target="_blank">Longest Common Prefix</a></p>
+<p><a href="/Majority_Element.js" target="_blank">Majority Element</a></p>
 <p><a href="/Max_Subarray.js" target="_blank">Max Subarray</a></p>
 <p><a href="/Maximum_Depth_of_Binary_Tree.js" target="_blank">Maximum Depth of Binary Tree</a></p>
 <p><a href="/Merge_Two_Lists.js" target="_blank">Merge Two Lists</a></p>
