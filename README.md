@@ -22,6 +22,7 @@ A healthy dose of toy problems daily keeps men sharp and happy.
 <p><a href="/Destroyer.js" target="_blank">Destroyer</a></p>
 <p><a href="/Diff_Two_Arrays.js" target="_blank">Diff Two Arrays</a></p>
 <p><a href="/Drop_It.js" target="_blank">Drop It</a></p>
+<p><a href="/Excel_Sheet_Column_Number.js" target="_blank">Excel Sheet Column Number</a></p>
 <p><a href="/Fear_Not_Letter.js" target="_blank">Fear Not Letter</a></p>
 <p><a href="/Find_Odd.js" target="_blank">Find Odd</a></p>
 <p><a href="/Find_Outlier.js" target="_blank">Find Outlier</a></p>
