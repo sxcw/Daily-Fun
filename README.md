@@ -58,6 +58,7 @@ A healthy dose of toy problems daily keeps men sharp and happy.
 <p><a href="/StrStr.js" target="_blank">StrStr</a></p>
 <p><a href="/Sorted_Union.js" target="_blank">Sorted Union</a></p>
 <p><a href="/Sum_All_Numbers_in_Range.js" target="_blank">Sum All Numbers in Range</a></p>
+<p><a href="/Factorial_Trailing_Zeroes.js" target="_blank">Factorial Trailing Zeroes</a></p>
 <p><a href="/Title_Case.js" target="_blank">Title Case</a></p>
 <p><a href="/Truncate_String.js" target="_blank">Truncate String</a></p>
 <p><a href="/Truth_Check.js" target="_blank">Truth Check</a></p>
