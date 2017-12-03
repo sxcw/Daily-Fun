@@ -30,6 +30,7 @@ A healthy dose of toy problems daily keeps men sharp and happy.
 <p><a href="/Find_Longest_Word.js" target="_blank">Find Longest Word</a></p>
 <p><a href="/Get_Index_To_Ins.js" target="_blank">Get Index To Ins </a></p>
 <p><a href="/Get_Middle.js" target="_blank">Get Middle</a></p>
+<p><a href="/Happy_Number.js" target="_blank">Happy Number</a></p>
 <p><a href="/High_and_Low.js" target="_blank">High and Low</a></p>
 <p><a href="/IQ_Test.js" target="_blank">IQ Test</a></p>
 <p><a href="/Intersection_of_Two_Linked_Lists.js" target="_blank">Intersection of Two Linked Lists</a></p>
