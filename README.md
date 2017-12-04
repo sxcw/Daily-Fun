@@ -71,6 +71,7 @@ A healthy dose of toy problems daily keeps men sharp and happy.
 <p><a href="/Plus_One.js" target="_blank">Plus One</a></p>
 <p><a href="/Remove_Duplicate.js" target="_blank">Remove Duplicate</a></p>
 <p><a href="/Remove_Element.js" target="_blank">Remove Element</a></p>
+<p><a href="/Remove_Linked_List_Elements.js" target="_blank">Remove Linked List Elements</a></p>
 <p><a href="/Reverse_Array_in_Place.js" target="_blank">Reverse Array in Place</a></p>
 <p><a href="/Roman_to_Integer.js" target="_blank">Roman to Integer</a></p>
 <p><a href="/Rotate_Array.js" target="_blank">Rotate Array</a></p>
