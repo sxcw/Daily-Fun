@@ -18,6 +18,7 @@ A healthy dose of toy problems daily keeps men sharp and happy.
 <p><a href="/Climb_Stairs.js" target="_blank">Climb Stairs</a><p>
 <p><a href="/Confirm_Ending.js" target="_blank">Confirm Ending</a></p>
 <p><a href="/Convert_HTML_Entities.js" target="_blank">Convert HTML Entities</a></p>
+<p><a href="/Count_Primes.js" target="_blank">Count Primes</a></p>
 <p><a href="/Decode_Morse_Code.js" target="_blank">Decode Morse Code</a></p>
 <p><a href="/Destroyer.js" target="_blank">Destroyer</a></p>
 <p><a href="/Diff_Two_Arrays.js" target="_blank">Diff Two Arrays</a></p>
