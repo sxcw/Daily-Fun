@@ -35,6 +35,7 @@ A healthy dose of toy problems daily keeps men sharp and happy.
 <p><a href="/High_and_Low.js" target="_blank">High and Low</a></p>
 <p><a href="/IQ_Test.js" target="_blank">IQ Test</a></p>
 <p><a href="/Intersection_of_Two_Linked_Lists.js" target="_blank">Intersection of Two Linked Lists</a></p>
+<p><a href="/Isomorphic_Strings.js" target="_blank">I Isomorphic Strings</a></p>
 <p><a href="/Largest_of_Four.js" target="_blank">Largest of Four</a></p>
 <p><a href="/Length_of_Last_Word.js" target="_blank">Length of Last Word</a></p>
 <p><a href="/Linked_List_Cycle.js" target="_blank">Linked List Cycle</a></p>
@@ -52,6 +53,7 @@ A healthy dose of toy problems daily keeps men sharp and happy.
 <p><a href="/Repeat_String_Num_Times.js" target="_blank">Repeat String Num Times</a></p>
 <p><a href="/Remove_Duplicates_from_Sorted_List.js" target="_blank">Remove Duplicates from Sorted List</a></p>
 <p><a href="/Reverse_Integer.js" target="_blank">Reverse Integer</a></p>
+<p><a href="/Reverse_Linked_List.js" target="_blank">Reverse Linked List</a></p>
 <p><a href="/Search_Insert.js" target="_blank">Search Insert</a></p>
 <p><a href="/Search_Sorted_Matrix.js" target="_blank">Search Sorted Matrix</a></p>
 <p><a href="/Slasher.js" target="_blank">Slasher</a></p>
