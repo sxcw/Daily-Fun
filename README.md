@@ -72,6 +72,7 @@ A healthy dose of toy problems daily keeps men sharp and happy.
 <p><a href="/Pascals_Triangle.js" target="_blank">Pascals Triangle</a></p>
 <p><a href="/Pig_Latin.js" target="_blank">Pig Latin</a></p>
 <p><a href="/Plus_One.js" target="_blank">Plus One</a></p>
+<p><a href="/Pyramid.js" target="_blank">Pyramid</a></p>
 <p><a href="/Remove_Duplicate.js" target="_blank">Remove Duplicate</a></p>
 <p><a href="/Remove_Element.js" target="_blank">Remove Element</a></p>
 <p><a href="/Remove_Linked_List_Elements.js" target="_blank">Remove Linked List Elements</a></p>
@@ -84,6 +85,7 @@ A healthy dose of toy problems daily keeps men sharp and happy.
 <p><a href="/Symmetric_Tree.js" target="_blank">Symmetric Tree</a></p>
 <p><a href="/Valid_Palindrome.js" target="_blank">Valid Palindrome</a></p>
 <p><a href="/Valid_Parentheses.js" target="_blank">Valid Parentheses</a></p>
+<p><a href="/Vowels.js" target="_blank">Vowels</a></p>
 <p><a href="/What_is_in_a_Name.js" target="_blank">What is in a Name</a></p>
 
 <h3>Medium</h3>
